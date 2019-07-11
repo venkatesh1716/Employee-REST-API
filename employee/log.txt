@@ -1,0 +1,32 @@
+Jul 08, 2019 7:07:58 PM com.rest.employee.EmployeeApplication main
+INFO: Employee Application Started
+Jul 08, 2019 7:18:50 PM com.rest.employee.EmployeeApplication main
+INFO: Employee Application Started
+Jul 08, 2019 7:19:10 PM com.rest.employee.services.EmployServices findOne
+INFO: Finding employee by Id
+Jul 08, 2019 7:19:16 PM com.rest.employee.services.EmployServices findAll
+INFO: Finding all employees
+Jul 08, 2019 7:22:27 PM com.rest.employee.controller.AppController createEmployee
+INFO: Adding Employee
+Jul 08, 2019 7:22:27 PM com.rest.employee.controller.AppController createEmployee
+INFO: Record inserted successfully with name test test
+Jul 08, 2019 7:23:27 PM com.rest.employee.services.EmployServices findAll
+INFO: Finding all employees
+Jul 08, 2019 7:23:46 PM com.rest.employee.controller.AppController createEmployee
+INFO: Adding Employee
+Jul 08, 2019 7:23:46 PM com.rest.employee.controller.AppController createEmployee
+INFO: Insertion failed!!!
+Jul 08, 2019 7:25:37 PM com.rest.employee.services.EmployServices findAll
+INFO: Finding all employees
+Jul 08, 2019 7:26:27 PM com.rest.employee.controller.AppController updateEmployee
+INFO: Updating Employee
+Jul 08, 2019 7:26:27 PM com.rest.employee.controller.AppController updateEmployee
+INFO: Updated Successfully
+Jul 08, 2019 7:27:32 PM com.rest.employee.services.EmployServices deleteEmployee
+INFO: Deleting employee by id
+Jul 08, 2019 7:27:32 PM com.rest.employee.services.EmployServices deleteEmployee
+INFO: Deleted successfully
+Jul 08, 2019 7:27:49 PM com.rest.employee.services.EmployServices deleteEmployee
+INFO: Deleting employee by id
+Jul 08, 2019 7:27:50 PM com.rest.employee.services.EmployServices deleteEmployee
+INFO: Deleted successfully
